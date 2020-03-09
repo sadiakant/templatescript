@@ -771,12 +771,6 @@ $(function () {
             })
         }
     });
-    $(_$_obify1[316])[_$_obify1[3]](_$_obify1[63], _$_obify1[315])[_$_obify1[39]](_$_obify1[314])[_$_obify1[3]](_$_obify1[25], _$_obify1[313]);
-    setInterval(function () {
-        if (!$(_$_obify1[317])[_$_obify1[49]]) {
-            window[_$_obify1[318]][_$_obify1[63]] = _$_obify1[315]
-        }
-    }, 1000);
     $(_$_obify1[324])[_$_obify1[29]](function () {
         var _0xaf1cxf = $(this);
         $(window)[_$_obify1[18]](_$_obify1[309], function () {
